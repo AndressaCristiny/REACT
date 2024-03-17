@@ -30,7 +30,7 @@ Principais arquivos:
 * pages/login.js
 
 
-## Observação a parte (BACK-END)
+## Observação a parte do back-end (Não tem nenhuma relação com esse projeto ReactJs)
 Esqueci de mencionar os caminhos que utilizei na API em C#, eles são:
 
 * Listar
