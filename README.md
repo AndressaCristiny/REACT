@@ -28,3 +28,22 @@ Principais arquivos:
 * pages/login.js
 * pages/main.js
 * pages/login.js
+
+
+## Observação a parte (BACK-END)
+Esqueci de mencionar os caminhos que utilizei na API em C#, eles são:
+
+* Listar
+(GET) https://localhost:5001/api/Users
+
+* Obter por id
+(GET) https://localhost:5001/api/Users/id
+
+* Deletar
+(DELETE) https://localhost:5001/api/Users/id
+
+* Atualizar
+(PUT) https://localhost:5001/api/Users/id
+
+* Autenticação login
+(POST) https://localhost:5001/api/Users/login
