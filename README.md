@@ -16,6 +16,8 @@ Usado para fazer nossar conexões com a API
 
 ### `npm install semantic-ui-react semantic-ui-css`
 
+Para o visual do site
+
 
 ## Principais
 
